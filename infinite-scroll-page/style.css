@@ -1,0 +1,20 @@
+body {
+  background: #eee;
+}
+
+.container {
+  width: 90%;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+#list {
+  margin: 0;
+  list-style: none;
+}
+
+#list li {
+  margin: 3px 0px;
+  padding: 15px;
+  border: 1px solid black;
+}
